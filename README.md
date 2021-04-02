@@ -1,2 +1,8 @@
 # pythoncode
-Python code examples
+
+Code examples addressing:
+
+- Python basics
+- Machine learning
+- Deep learning.
+
